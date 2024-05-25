@@ -28,3 +28,14 @@ Hi! I'm Kenneth. I grew up in a rural area and have always been passionate about
 **Maker:** I enjoy creating gadgets using Arduino.
 
 🦊🦊🦊
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Kenfoxfire">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kenfoxfire&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kenfoxfire&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
