@@ -9,7 +9,7 @@ Hi! I'm Kenneth. I grew up in a rural area and have always been passionate about
 
 **Front-End:** Proficient in frameworks like Angular and React.
 
-**Back-End:** Experienced with Node.js and the NestJS framework for building robust server-side applications.
+**Back-End:** Experienced with Go, Node.js and the NestJS framework for building robust applications.
 
 **Databases:** Comfortable with both SQL and NoSQL databases.
 
